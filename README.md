@@ -37,7 +37,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing a 
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://shivacharanteja10.github.io/CRUD-MAIN/).
 
 ## Dependencies
 
