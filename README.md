@@ -43,9 +43,3 @@ Check out the live demo [here]().
 
 - [Bootstrap](https://getbootstrap.com/): Used for styling the user interface.
 
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/MohamedAli09/CRUD-Project.git
